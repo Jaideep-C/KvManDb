@@ -1,0 +1,11 @@
+# Code editor files
+.idea/
+.vscode/
+.cursorrules
+
+# Build files
+target/
+
+# logs
+logs/
+*.log.*
