@@ -8,4 +8,4 @@ target/
 
 # logs
 logs/
-*.log.*
+*.log
